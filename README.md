@@ -14,11 +14,17 @@ this is *italic* word
 this line contains [link to google](http://google.co.in)
 
 
+* Item 1
+* Item 2
+  * Sub-Item1
+  * Sub-Item2
 
-*Item 1
-*Item 2
-  *Sub-Item1
-  *Sub-Item2
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
