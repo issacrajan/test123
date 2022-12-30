@@ -1,3 +1,4 @@
-line is updated in master
-line added in master
-line2 added in master
+line is replaced in new_feature branch
+
+line is added in new_feature branch
+
