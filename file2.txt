@@ -1,2 +1,4 @@
-this is file2.txt
+line is replaced in new_feature branch
+
+line is added in new_feature branch
 
