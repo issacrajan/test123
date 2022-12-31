@@ -1,1 +1,1 @@
-this is file6 content line1 
+file to delete
